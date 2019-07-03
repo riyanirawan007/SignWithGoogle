@@ -65,3 +65,5 @@ Make sure your package location has been added on top line of SignWithGoogle.jav
 # Disclaimer
 - Modification <br> The whole code is designed by [@riyanirawan007](https://github.com@riyanirawan007), feel free to share and modify the code.
 - Data Retrieved <br> You can get data from signed google acccount as explained on [GoogleSignInAccount API](https://developers.google.com/android/reference/com/google/android/gms/auth/api/signin/GoogleSignInAccount)
+- Additional Google People API <br>
+I've created same way util, with additional features such as Google People API implementation for get more spesifics google profile information, its available soon.
